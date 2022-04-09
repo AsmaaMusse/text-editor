@@ -4,7 +4,14 @@
 
 For this project, my aim was to to build a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
+## Table of contents:
+- [Links](#links)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Contribute](#contribute)
 
+## Links:
 ### Application:
 https://text-editor-am.herokuapp.com/
 
